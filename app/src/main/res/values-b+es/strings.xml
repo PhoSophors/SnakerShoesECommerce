@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="it_engineering_generation_7">វិស្វកម្មបច្ចេកវិទ្យា - ជំនានទី ៧</string>
+    <string name="semester_1">ឆមាសទី ១</string>
+    <string name="semester_2">ឆមាសទី ២</string>
+    <string name="subject">មុខវិទ្យា</string>
+    <string name="credit">ក្រឹឌីត</string>
+    <string name="y1">ឆ្នាំទី ១</string>
+    <string name="y2">ឆ្នាំទី ២</string>
+    <string name="y3">ឆ្នាំទី ៣</string>
+    <string name="y4">ឆ្នាំទី ៤</string>
+    <string name="web_and_cloud_technologies_ii">បច្ចេកវិទ្យាបណ្តាញ ២ </string>
+    <string name="computer_graphics">ក្រាហ្វិកកុំព្យូទ័រ</string>
+    <string name="software_engineering">វិស្វកម្មកម្មវិធី</string>
+    <string name="network_engineering_ii">វិស្វកម្មបណ្តាញ ២</string>
+    <string name="mobile_application_development_i">ការអភិវឌ្ឍន៍កម្មវិធីទូរស័ព្ទ ១</string>
+    <string name="_3">៣</string>
+</resources>

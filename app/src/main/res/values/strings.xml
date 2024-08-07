@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SnakerShoesECommerce</string>
+    <string name="logo">Shoea</string>
+    <string name="create_new">Create New Password</string>
+    <string name="it_engineering_generation_7">IT Engineering - Generation 7</string>
+    <string name="semester_1">Semester 1</string>
+    <string name="semester_2">Semester 2</string>
+    <string name="subject">Subject</string>
+    <string name="credit">Credit</string>
+    <string name="y1">Y1</string>
+    <string name="y2">Y2</string>
+    <string name="y3">Y3</string>
+    <string name="y4">Y4</string>
+    <string name="web_and_cloud_technologies_ii">Web and cloud Technologies II</string>
+    <string name="computer_graphics">Computer Graphics</string>
+    <string name="software_engineering">Software Engineering</string>
+    <string name="network_engineering_ii">Network Engineering II</string>
+    <string name="mobile_application_development_i">Mobile Application Development I</string>
+    <string name="_3">3</string>
+    <string name="todo">TODO</string>
+
+</resources>
